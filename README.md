@@ -8,8 +8,8 @@ The platform captures the rhythm of a patient’s steps—simulated through keyb
 To generate this adaptive music, we integrated Suno’s generative audio API, which allows us to dynamically create tracks that evolve as the patient progresses. Instead of relying on pre-recorded songs with fixed tempos, Suno lets us modulate tempo and intensity on the fly, ensuring smooth transitions and a more natural therapy experience. This not only provides clinical precision but also keeps sessions engaging by tailoring music to the patient’s rhythm and preferences.
 
 Our prototype demonstrates a flexible, scalable framework that bridges software development, signal processing, and generative AI. With further development, TwoStep could integrate personalized genres, emotional tones, and patient-specific health data, making therapy both clinically effective and deeply personal. We envision it being piloted in rehabilitation clinics and eventually widely adopted in healthcare to improve quality of life for people living with gait disorders.
-<img width="485" height="329" alt="image" src="https://github.com/user-attachments/assets/555afdf1-b8ad-447a-a309-62cb11982c42" />
 
+<img width="485" height="329" alt="image" src="https://github.com/user-attachments/assets/555afdf1-b8ad-447a-a309-62cb11982c42" />
 
 ## Inspiration
 
