@@ -200,7 +200,7 @@ if (True):
     promptBPMFol = ", gradually change the BPM from 70 to "+str(averageTime)+" over a period of "+str(playTime)+" seconds"
     promptEvent =", and add an upbeat flourish near the start of this section"
     if (not(followingMode)) :
-        promptBPMPT = ", gradually change the BPM to "+str(PTIdeal)+" over a period of "+str(playTime)+" seconds"
+        promptBPMPT = ", gradually change the BPM from 70 to "+str(PTIdeal)+" over a period of "+str(playTime)+" seconds"
 
     currentPromt = prompt1
     if (followingMode) :
