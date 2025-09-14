@@ -4,7 +4,6 @@ import BPMDisplay from './components/BPMDisplay'
 import MusicGeneration from './components/MusicGeneration'
 import ControlPanel from './components/ControlPanel'
 import SessionStatus from './components/SessionStatus'
-import SessionData from './components/SessionData'
 
 function App() {
   // Session state
@@ -185,10 +184,6 @@ function App() {
             musicBPM={musicBPM}
             selectedGenre={selectedGenre}
             currentMode={currentMode}
-          />
-          <SessionData
-            saveSessionData={saveSessionData}
-            clearSessionData={clearSessionData}
           />
         </div>
       </div>
