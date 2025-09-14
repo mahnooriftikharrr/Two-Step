@@ -11,6 +11,14 @@ We were inspired by the challenges people with Parkinson’s disease and other m
 
 TWOSTEP is an adaptive music therapy platform designed for gait rehabilitation. It captures the rhythm of a patient’s steps—simulated via keyboard input in our prototype, with future integration for wearables like the Apple Watch—and compares it to a therapeutic target BPM. The system then generates music that continuously adapts its tempo, style, and energy based on patient progress. By evolving alongside the patient’s movement, PLUME transforms therapy into a personalized and motivating experience.
 
+## How we built it
+
+Frontend: Built with React, offering a clean, intuitive interface for both therapists and patients.
+Data Capture: Simulated step inputs through keystrokes, with future plans to integrate Apple Watch sensors for real-world tracking.
+Control Logic: Algorithms monitor cadence, detect deviations from the target BPM, and determine music adjustments.
+Music Generation: Leveraged generative music APIs (e.g., Suno) to produce real-time, adaptive audio.
+Testing: Conducted prototype sessions using simulated data to validate responsiveness, smooth tempo transitions, and overall user experience.
+
 ## Features
 
 - Real-time BPM monitoring and display
