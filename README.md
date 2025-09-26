@@ -17,7 +17,7 @@ We were inspired by the challenges people with Parkinson’s disease and other m
 
 ## What it does
 
-TWOSTEP is an adaptive music therapy platform designed for gait rehabilitation. It captures the rhythm of a patient’s steps—simulated via keyboard input in our prototype, with future integration for wearables like the Apple Watch—and compares it to a therapeutic target BPM. The system then generates music that continuously adapts its tempo, style, and energy based on patient progress. By evolving alongside the patient’s movement, PLUME transforms therapy into a personalized and motivating experience.
+TWOSTEP is an adaptive music therapy platform designed for gait rehabilitation. It captures the rhythm of a patient’s steps—simulated via keyboard input in our prototype, with future integration for wearables like the Apple Watch—and compares it to a therapeutic target BPM. The system then generates music that continuously adapts its tempo, style, and energy based on patient progress. By evolving alongside the patient’s movement, TwoStep transforms therapy into a personalized and motivating experience.
 
 ## How we built it
 
