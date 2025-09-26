@@ -33,8 +33,7 @@ Testing: Conducted prototype sessions using simulated data to validate responsiv
 - Music generation integration with Suno
 - Session management with start/pause/stop controls
 - Two therapy modes: Follow (music follows patient) and Set (patient follows music)
-- Session data export and management
-- Responsive design with beautiful animations
+- Responsive design
 
 ## Setup Instructions
 
